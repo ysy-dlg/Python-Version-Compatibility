@@ -1,0 +1,1 @@
+url(r'^search/(?P<flights>[^/]*)/search_results/$', "fsApp.views.search_results", name='search_results'),

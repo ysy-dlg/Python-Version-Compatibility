@@ -1,0 +1,1 @@
+a=os.popen("your command").read()

@@ -1,0 +1,3 @@
+class MyModelAdmin(admin.ModelAdmin):
+    form = MyModelForm
+    ...

@@ -1,0 +1,1 @@
+pd.Series(ts.ix[lt_delta.index.to_series().str.get(1)].values, lt_delta.index)

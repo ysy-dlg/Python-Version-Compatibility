@@ -1,0 +1,1 @@
+desired_queryset = Whatever.objects.filter(user=user, name=searched_term)

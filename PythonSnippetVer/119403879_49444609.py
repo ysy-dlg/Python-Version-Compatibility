@@ -1,0 +1,1 @@
+t = np.random.rand(1, 10)

@@ -1,0 +1,1 @@
+arr_grid = np.swapaxes(arr_view, 1, 2).reshape(-1, aaa, bbb, c)
