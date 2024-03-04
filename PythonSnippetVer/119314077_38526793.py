@@ -1,5 +1,0 @@
-predictions = {
-    "bob": [...],
-    "bill": [...],
-    "fred": [...]
-}

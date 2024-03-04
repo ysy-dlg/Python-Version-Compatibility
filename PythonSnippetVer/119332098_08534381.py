@@ -1,1 +1,0 @@
-next(ifilter(predicate, seq), None)

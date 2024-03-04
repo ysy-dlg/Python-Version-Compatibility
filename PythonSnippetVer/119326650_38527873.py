@@ -1,1 +1,0 @@
-w = tf.select(tf.is_nan(w), tf.ones_like(w) * NUMBER, w); #if w is nan use 1 * NUMBER else use element in w
