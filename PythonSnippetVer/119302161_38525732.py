@@ -1,0 +1,1 @@
+User.create_or_get(**nuser)

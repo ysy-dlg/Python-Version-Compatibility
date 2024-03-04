@@ -1,0 +1,1 @@
+ALL_TIMEZONES = tuple((idx, tz) for idx, tz in enumerate(pytz.all_timezones))

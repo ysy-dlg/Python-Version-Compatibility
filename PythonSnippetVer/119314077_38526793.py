@@ -1,0 +1,5 @@
+predictions = {
+    "bob": [...],
+    "bill": [...],
+    "fred": [...]
+}
